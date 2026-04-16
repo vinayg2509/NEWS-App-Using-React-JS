@@ -17,6 +17,10 @@ return (
     <li className="nav-item">
         <a className="nav-link" href="/">About</a>
     </li> 
+
+      <li className="nav-item">
+        <a className="nav-link" href="/">International News</a>
+    </li> 
     </ul>
 
 </div>
